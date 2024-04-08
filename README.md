@@ -7,7 +7,7 @@ During the COVID-19 pandemic, wearing face masks has become a crucial measure to
 The dataset consists of 7553 RGB images divided into two folders: `with_mask` and `without_mask`. Images are named with labels indicating whether the person in the image is wearing a mask or not. There are 3725 images of faces with masks and 3828 images of faces without masks.
 
 ### Dataset Link
-[Dataset Link](#https://www.kaggle.com/datasets/omkargurav/face-mask-dataset) (Replace with actual link)
+[Dataset Link](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 ## Model Performance
 - Custom CNN Architecture:
